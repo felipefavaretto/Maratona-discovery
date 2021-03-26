@@ -1,0 +1,9 @@
+dando o comando <ol> para deixar a lista ordenada de 1 a .... <li> por  exemplo
+
+°1 copo de arroz
+
+°2 colheres de sal.
+
+usando o comando <strong> vc deixa seu texto em negrito destacado.
+
+para chamar um novo arquivo é só usar o comando :<link rel="stylesheet" href=e o nome do arquivo criado
